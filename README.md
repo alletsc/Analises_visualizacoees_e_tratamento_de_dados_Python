@@ -3,3 +3,6 @@
 * Limpeza e tratamento de dados;
 * Gráficos visualizações e dashboards;
 * Estatistica Descritiva;
+* Pandas;
+* Numpy;
+* Seaborn;
